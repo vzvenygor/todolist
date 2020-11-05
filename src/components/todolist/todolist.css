@@ -1,0 +1,39 @@
+.list {
+  margin: 20px auto;
+  width: 300px;
+  background-color: #44c7fb;
+  border: black 5px solid;
+  padding: 20px 0;
+}
+
+
+.input {
+  padding: 7px 10px;
+  border:#005ff9 3px solid;
+  width: 180px;
+  margin-right: 10px;
+}
+
+.button {
+  border-radius: 5px;
+  border: none;
+  background-color: #005ff9;
+  color: #fff;
+  padding: 9px 10px;
+}
+
+.items {
+  background-color: #a1e3fd;
+  margin: 10px 20px;
+  padding: 10px 0 10px 12px;
+  border-radius: 5px;
+  text-align: left;
+} 
+
+.icons {
+  color: #fff;
+  display: flex;
+  align-items: center;
+  font-size: 24px;
+  cursor: pointer;
+}
